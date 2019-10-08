@@ -3,3 +3,17 @@ html {
   background-image: url("../images/starfield.png");
   color: #fff;
 }
+
+.btn-ghost {
+  color: #b4fff4;
+  border-color: #b4fff4;
+  border-radius: 10px;
+  background-color: rgba(180, 255, 244, 0);
+  transition: background-color 250ms linear;
+}
+
+.btn-ghost:hover {
+  border-color: #b4fff4;
+  color: #b4fff4;
+  background-color: rgba(180, 255, 244, .2);
+}
