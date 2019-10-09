@@ -17,3 +17,10 @@ html {
   color: #b4fff4;
   background-color: rgba(180, 255, 244, .2);
 }
+
+.btn-ghost:active,
+.btn-ghost:focus {
+  border-color: #90ccc3;
+  color: #90ccc3;
+  background-color: rgba(180, 255, 244, .2);
+}
