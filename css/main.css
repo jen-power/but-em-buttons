@@ -23,6 +23,8 @@ html {
   border-color: #90ccc3;
   color: #90ccc3;
   background-color: rgba(180, 255, 244, .2);
+  position: absolute;
+  top: 150px;
 }
 
 h1, p {
